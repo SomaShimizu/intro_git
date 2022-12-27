@@ -3,3 +3,4 @@ Gitの練習
 ・git add
 ・git commit
 ・git rm  削除したファイルをリポジトリに追加する
+・git status
