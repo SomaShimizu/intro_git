@@ -1,2 +1,4 @@
 Gitの練習
 ローカルリポジトリは,git initで新規・既存プロジェクトの管理を開始する.
+・git add
+・git commit
